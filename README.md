@@ -7,6 +7,7 @@ AWS Lambda and Amazon API Gateway.
 
 What's Here
 -----------
+Welcome All to Devops Academy
 
 This sample includes:
 
